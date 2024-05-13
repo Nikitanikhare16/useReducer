@@ -1,0 +1,19 @@
+.user-wrapper{
+    width: 50%;
+    height: 400px;
+    border: 2px solid gray;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 20px;
+}
+.form-control{
+flex-direction: column;
+margin-top: 9px;
+margin-bottom: 11px;
+height: 60px;
+justify-content: space-between;
+
+input{
+    height: 30px;
+}
+}
